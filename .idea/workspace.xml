@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026fc1ed-7d31-4a17-984a-d54e0805a067" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/code_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code_1">
+  <component name="RunManager" selected="Application.code_3">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="JianZhiOffer" />
@@ -50,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="code_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_3" />
+      <module name="JianZhiOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JarApplication">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
@@ -58,9 +65,11 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.code_1" />
+      <item itemvalue="Application.code_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code_3" />
         <item itemvalue="Application.code_1" />
       </list>
     </recent_temporary>
@@ -103,21 +112,21 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="422" y="140" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1581593241172" />
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1581593726986">
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1581595287532">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1581593726986" />
-    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1581593726986">
+    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1581595287532" />
+    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1581595287532">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1581593726986" />
-    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1581593726986">
+    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1581595287532" />
+    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1581595287532">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1581593726986" />
-    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1581593726986">
+    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1581595287532" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1581595287532">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1581593726986" />
+    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1581595287532" />
   </component>
 </project>
