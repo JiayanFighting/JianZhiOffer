@@ -7,6 +7,7 @@ public class code_2 {
         System.out.println(findNumberIn2DArray(matrix,target));
     }
 
+    // 从右上角开始 >target j--; <target i++
     public static boolean findNumberIn2DArray(int[][] matrix, int target){
         if (matrix.length == 0 || matrix[0].length == 0) return false;
         int i = 0,j = matrix[0].length-1;
