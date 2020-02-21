@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="026fc1ed-7d31-4a17-984a-d54e0805a067" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code_10_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +30,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/code_0.java" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/code_0.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.code_6">
+  <component name="RunManager" selected="Application.code_68_2">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="JianZhiOffer" />
@@ -44,22 +46,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_1" />
+    <configuration name="code_63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_63" />
       <module name="JianZhiOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_3" />
+    <configuration name="code_65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_65" />
       <module name="JianZhiOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code_6" />
+    <configuration name="code_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_66" />
+      <module name="JianZhiOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code_67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_67" />
+      <module name="JianZhiOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code_68_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code_68_2" />
       <module name="JianZhiOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,15 +88,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.code_1" />
-      <item itemvalue="Application.code_3" />
-      <item itemvalue="Application.code_6" />
+      <item itemvalue="Application.code_63" />
+      <item itemvalue="Application.code_65" />
+      <item itemvalue="Application.code_66" />
+      <item itemvalue="Application.code_67" />
+      <item itemvalue="Application.code_68_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code_6" />
-        <item itemvalue="Application.code_3" />
-        <item itemvalue="Application.code_1" />
+        <item itemvalue="Application.code_68_2" />
+        <item itemvalue="Application.code_67" />
+        <item itemvalue="Application.code_66" />
+        <item itemvalue="Application.code_65" />
+        <item itemvalue="Application.code_63" />
       </list>
     </recent_temporary>
   </component>
@@ -118,25 +138,265 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="371" y="171" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1581593296306" />
-    <state x="422" y="140" key="FileChooserDialogImpl" timestamp="1581593241172">
+    <state x="93" y="93" width="1093" height="573" key="DiffContextDialog" timestamp="1582008053452">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="422" y="140" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1581593241172" />
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom" timestamp="1581596204394">
+    <state x="93" y="93" width="1093" height="573" key="DiffContextDialog/0.0.1280.760@0.0.1280.760" timestamp="1582008053452" />
+    <state x="422" y="140" key="FileChooserDialogImpl" timestamp="1582008032536">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1581596204394" />
-    <state width="1238" height="190" key="GridCell.Tab.0.center" timestamp="1581596204394">
+    <state x="422" y="140" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1582008032536" />
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom" timestamp="1582273724369">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1581596204394" />
-    <state width="1238" height="190" key="GridCell.Tab.0.left" timestamp="1581596204394">
+    <state width="1238" height="160" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582273724369" />
+    <state width="1238" height="160" key="GridCell.Tab.0.center" timestamp="1582273724369">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1581596204394" />
-    <state width="1238" height="190" key="GridCell.Tab.0.right" timestamp="1581596204394">
+    <state width="1238" height="160" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582273724369" />
+    <state width="1238" height="160" key="GridCell.Tab.0.left" timestamp="1582273724369">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1581596204394" />
+    <state width="1238" height="160" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582273724369" />
+    <state width="1238" height="160" key="GridCell.Tab.0.right" timestamp="1582273724369">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="160" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582273724369" />
+    <state width="1238" height="253" key="GridCell.Tab.1.bottom" timestamp="1582270424598">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582270424598" />
+    <state width="1238" height="253" key="GridCell.Tab.1.center" timestamp="1582270424598">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1582270424598" />
+    <state width="1238" height="253" key="GridCell.Tab.1.left" timestamp="1582270424598">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1582270424598" />
+    <state width="1238" height="253" key="GridCell.Tab.1.right" timestamp="1582270424598">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="253" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1582270424598" />
+    <state x="306" y="85" width="672" height="678" key="search.everywhere.popup" timestamp="1582258765255">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="306" y="85" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1582258765255" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_11.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_29.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_13.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_26.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_26.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_26.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_46.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_40.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_41.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_41.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_41.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_41.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MedianFinder.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MedianFinder.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_50.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_50.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_50.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_58_1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_58_1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_58_1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_58_1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_58_2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_59_1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_61.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_62.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_62.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_62.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_62.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_62.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_63.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_65.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_65.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_65.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_65.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_66.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/code_66.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
